@@ -75,4 +75,4 @@ Default web root:
 
 checking jenkins
 
-Git commit
+Git commits
