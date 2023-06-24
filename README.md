@@ -75,6 +75,6 @@ Default web root:
 
 checking jenkins
 
-next
+all
 
 
