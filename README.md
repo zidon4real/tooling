@@ -75,5 +75,5 @@ Default web root:
 
 checking jenkins
 
-Git commits added
+Git commits adds
 
