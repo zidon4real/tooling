@@ -75,6 +75,4 @@ Default web root:
 
 checking jenkins
 
-all
-
-
+al
